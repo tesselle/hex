@@ -12,4 +12,5 @@ Sources files of the hexagonal logos for our packages. Design by [B. Lebrun](htt
 ![tabula](https://raw.githubusercontent.com/tesselle/hex/master/png/tabula%40240px.png)
 ![folio](https://raw.githubusercontent.com/tesselle/hex/master/png/folio%40240px.png)
 ![arkhe](https://raw.githubusercontent.com/tesselle/hex/master/png/arkhe%40240px.png)
+![kairos](https://raw.githubusercontent.com/tesselle/hex/master/png/kairos%40240px.png)
 
