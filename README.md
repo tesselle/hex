@@ -13,6 +13,8 @@ Sources files of the hexagonal logos for our packages. Design by [B. Lebrun](htt
 ![folio](https://raw.githubusercontent.com/tesselle/hex/master/png/folio%40240px.png)
 ![kairos](https://raw.githubusercontent.com/tesselle/hex/master/png/kairos%40240px.png)
 ![chronos](https://raw.githubusercontent.com/tesselle/hex/master/png/chronos%40240px.png)
+![ananke](https://raw.githubusercontent.com/tesselle/hex/master/png/ananke%40240px.png)
 ![alkahest](https://raw.githubusercontent.com/tesselle/hex/master/png/alkahest%40240px.png)
+![isopleuros](https://raw.githubusercontent.com/tesselle/hex/master/png/isopleuros%40240px.png)
 ![arkhe](https://raw.githubusercontent.com/tesselle/hex/master/png/arkhe%40240px.png)
 
