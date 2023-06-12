@@ -12,7 +12,7 @@ Sources files of the hexagonal logos for our packages. Design by [B. Lebrun](htt
 ![tabula](https://raw.githubusercontent.com/tesselle/hex/master/png/tabula%40240px.png)
 ![folio](https://raw.githubusercontent.com/tesselle/hex/master/png/folio%40240px.png)
 ![kairos](https://raw.githubusercontent.com/tesselle/hex/master/png/kairos%40240px.png)
-![chronos](https://raw.githubusercontent.com/tesselle/hex/master/png/chronos%40240px.png)
+![aion](https://raw.githubusercontent.com/tesselle/hex/master/png/aion%40240px.png)
 ![ananke](https://raw.githubusercontent.com/tesselle/hex/master/png/ananke%40240px.png)
 ![alkahest](https://raw.githubusercontent.com/tesselle/hex/master/png/alkahest%40240px.png)
 ![isopleuros](https://raw.githubusercontent.com/tesselle/hex/master/png/isopleuros%40240px.png)
